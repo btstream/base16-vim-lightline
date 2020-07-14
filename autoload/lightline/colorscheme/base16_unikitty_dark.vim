@@ -29,6 +29,7 @@ let s:p.inactive.middle = [ [ s:base01, s:base00 ] ]
 
 let s:p.normal.right    = [ [ s:base01, s:base03 ], [ s:base06, s:base02 ] ]
 let s:p.insert.right    = [ [ s:base01, s:base03 ], [ s:base06, s:base02 ] ]
+let s:p.visual.right    = [ [ s:base01, s:base03 ], [ s:base06, s:base02 ] ]
 let s:p.inactive.right  = [ [ s:base01, s:base00 ] ]
 
 let s:p.normal.error    = [ [ s:base07, s:base08 ] ]
