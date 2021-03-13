@@ -12,7 +12,7 @@ should suffice. If you use [vim-plug](https://github.com/junegunn/vim-plug):
 
 ```vim
 Plug 'chriskempson/base16-vim'
-Plug 'mike-hearn/base16-vim-lightline'
+Plug 'btstream/base16-vim-lightline'
 ```
 
 ## How to build
